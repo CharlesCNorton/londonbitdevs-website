@@ -5,7 +5,7 @@ Simple Jekyll site for hosting all of the links from meetups past and future.
 ## Development
 
 You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the
-site locally. Once they're setup:
+site locally. Once they're set up:
 
 * Clone the repository and go into the directory
 * Run `bundle install`
